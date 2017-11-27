@@ -1,2 +1,2 @@
-# pynoise
-Python class to generate simplex noise
+# simplex
+Simplex noise in various programming languages
